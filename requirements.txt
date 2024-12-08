@@ -1,0 +1,6 @@
+bentoml
+torch
+transformers
+sentencepiece
+protobuf
+pytorch-lightning==2.4.0
